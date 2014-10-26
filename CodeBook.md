@@ -74,11 +74,11 @@ These signals were used to estimate variables of the feature vector for each pat
 [34] Time.Gravity.LinAccel.Magnitude.Mean    
 [35] Time.Gravity.LinAccel.Magnitude.StdDev  
 [36] Time.Body.LinAccel.Jerk.Magnitude.Mean  
-[37] Time.Body.LinAccel.Jerk.Magnitude.StdDev
+[37] Time.Body.LinAccel.Jerk.Magnitude.StdDev  
 [38] Time.Body.AngVeloc.Magnitude.Mean       
 [39] Time.Body.AngVeloc.Magnitude.StdDev     
 [40] Time.Body.AngVeloc.Jerk.Magnitude.Mean  
-[41] Time.Body.AngVeloc.Jerk.Magnitude.StdDev
+[41] Time.Body.AngVeloc.Jerk.Magnitude.StdDev  
 [42] Freq.Body.LinAccel.Mean.X               
 [43] Freq.Body.LinAccel.Mean.Y               
 [44] Freq.Body.LinAccel.Mean.Z               
