@@ -13,12 +13,6 @@ Raw Data Location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%
 * This script will assume you are working with the zip file from the above URL, with its underlying file structure intact.
 * File names, and internal labelling within each file is assumed to be in an unaltered state from the original zip.
 
-### To run the script:
-
-- Clone this repository
-- Run the file: run_analysis.R 
-- The tidy dataset will be output to your working directory as `tidyData.txt`
-
 
 Details about the R Script and its Output:
 ------------------------------------------
@@ -28,7 +22,11 @@ After merging the test and training data sets, the program adds better labelling
 
 Finally, the program calculates the mean of each extracted column, for each test subject and activity they performed, and writes the output to a tab-delimited file called tidyData.txt in your working directory.
 
+Further details about the functions/variables involved can be found in the [Code Book](https://github.com/djmcqueen/Getting_and_Cleaning_Data/blob/master/CodeBook.md)
 
-About the Code Book
--------------------
-The CodeBook.md file explains the functions/variables involved in manipulating this data.
+
+### To run the script:
+
+- Clone this repository
+- Run the file: run_analysis.R 
+- The tidy dataset will be output to your working directory as `tidyData.txt`
