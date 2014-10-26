@@ -13,6 +13,8 @@ require(data.table)
     unzip("./Dataset.zip")
     #was having issues with the spaces in windows?  changed to underscores and it worked...
     file.rename("UCI HAR Dataset", "UCI_HAR_Dataset")
+  } else {
+    file.rename("UCI HAR Dataset", "UCI_HAR_Dataset")
   }
 
 #Import the data sets into working memory
