@@ -10,7 +10,9 @@ The Raw Data:
 ------------------
 
 Unlabeled features are located in x_test.txt and x_train.txt
+
 The activity labels are located in y_test.txt and y_train.txt
+
 The test subjects are located in subject_test.txt and subject_train.txt
 
 
