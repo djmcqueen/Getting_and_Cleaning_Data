@@ -22,7 +22,7 @@ After merging the test and training data sets, the program adds better labelling
 
 Finally, the program calculates the mean of each extracted column, for each test subject and activity they performed, and writes the output to a tab-delimited file called tidyData.txt in your working directory.
 
-Further details about the functions/variables involved can be found in the [Code Book](https://github.com/djmcqueen/Getting_and_Cleaning_Data/blob/master/CodeBook.md)
+##### Further details about transformation steps, and the functions/variables involved can be found in the [Code Book](https://github.com/djmcqueen/Getting_and_Cleaning_Data/blob/master/CodeBook.md)
 
 
 ### To run the script:
