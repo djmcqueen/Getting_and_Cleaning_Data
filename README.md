@@ -25,8 +25,9 @@ Finally, the program calculates the mean of each extracted column, for each test
 ##### Further details about transformation steps, and the functions/variables involved can be found in the [Code Book](https://github.com/djmcqueen/Getting_and_Cleaning_Data/blob/master/CodeBook.md)
 
 
-To run the script:
+To run the script/analysis:
 ------------------------------------------
 - Clone this repository
-- Run the file: run_analysis.R 
+- Make sure the plyr and data.table packages are installed
+- Run the file: run_analysis.R
 - The tidy dataset will be output to your working directory as `tidyData.txt`
