@@ -15,7 +15,7 @@
     - Also cleans up messy characters, and unifies formatting style for the column labels.
 7. For each test subject and activity they performed: calculates the mean value of each measurement with ddply.<br />
     - Sorts the data by Subject_ID and Activity, for easy reading.
-6. Writes the result to disk in your working directory, in a file called 'tidyData.txt'
+6. Writes the result to disk in your working directory, in a tab-delimited file called 'tidyData.txt'
 
 
 ### Variable Descriptions
