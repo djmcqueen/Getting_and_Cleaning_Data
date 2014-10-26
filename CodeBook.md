@@ -100,7 +100,7 @@ These signals were used to estimate variables of the feature vector for each pat
 [60] Freq.Body.LinAccel.Magnitude.Mean       
 [61] Freq.Body.LinAccel.Magnitude.StdDev     
 [62] Freq.Body.LinAccel.Jerk.Magnitude.Mean  
-[63] Freq.Body.LinAccel.Jerk.Magnitude.StdDev
+[63] Freq.Body.LinAccel.Jerk.Magnitude.StdDev  
 [64] Freq.Body.AngVeloc.Magnitude.Mean       
 [65] Freq.Body.AngVeloc.Magnitude.StdDev     
 [66] Freq.Body.AngVeloc.Jerk.Magnitude.Mean  
