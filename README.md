@@ -6,11 +6,11 @@ Introduction
 This is my course project for Coursera's 3rd Course of the Data Science Specialization: Getting and Cleaning Data.
 
 
-The Raw Data (UCI HAR Dataset):
-------------------
+About the Raw Data (UCI HAR Dataset):
+-------------------------------------
 Raw Data Location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-* This script will assume you are working with the zip file from that URL, with its underlying file structure intact.
+* This script will assume you are working with the zip file from the above URL, with its underlying file structure intact.
 * File names, and internal labelling within each file is assumed to be in an unaltered state from the original zip.
 
 ### To run the script:
