@@ -6,13 +6,11 @@ Introduction
 This is my course project for Coursera's 3rd Course of the Data Science Specialization: Getting and Cleaning Data.
 
 
-The Raw Data:
+The Raw Data (UCI HAR Dataset):
 ------------------
-
+Raw Data Location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 Unlabeled features are located in x_test.txt and x_train.txt
-
 The activity labels are located in y_test.txt and y_train.txt
-
 The test subjects are located in subject_test.txt and subject_train.txt
 
 
