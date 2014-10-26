@@ -28,6 +28,6 @@ Finally, the program calculates the mean of each extracted column, for each test
 To run the script/analysis:
 ------------------------------------------
 - Clone this repository
-- Make sure the plyr and data.table packages are installed
+- Make sure the 'plyr' and 'data.table' packages are installed
 - Run the file: run_analysis.R
 - The tidy dataset will be output to your working directory as `tidyData.txt`
