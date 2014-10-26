@@ -12,9 +12,9 @@
 4. Subsets out the columns pertaining to means and standard deviations for each measurement.
 5. Joins in the activity_labels.txt data, so more descriptive activity names can be shown.
 6. Modifies the column labels to have appropriate (and more descriptive) names.<br />
-    a. Also cleans up messy characters, and unifies formatting style for the column labels.
+    - Also cleans up messy characters, and unifies formatting style for the column labels.
 7. Uses ddply to calculate the mean value of each measurement, for each test subject and each activity they performed.<br />
-    a. Sorts the data by Subject_ID and Activity, for easy reading.
+    - Sorts the data by Subject_ID and Activity, for easy reading.
 6. Writes the result to disk in your working directory, called 'tidyData.txt'
 
 
