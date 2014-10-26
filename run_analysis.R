@@ -3,7 +3,7 @@
 require(plyr)
 require(data.table)
 
-#Get the data from the web and set the working directory
+#Get the data from the web if it's not already present in the working directory
 
   fileUrl1 <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
   if(!file.exists("./Dataset.zip")) {
