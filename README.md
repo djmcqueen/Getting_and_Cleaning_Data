@@ -21,9 +21,7 @@ The script run_analysis.R, located in this repository, checks for a zipped copy 
 
 After merging the test and training data sets, the program adds better labelling throughout the merged set, and then subsets out all rows for only the columns pertaining to the means and standard deviations of the various measurements.
 
-Finally, the program calculates the mean of each extracted column, for each test subject and activity they performed. 
-
-This final dataset is written out to a tab-delimited file called tidyData.txt
+Finally, the program calculates the mean of each extracted column, for each test subject and activity they performed, and writes the output to a tab-delimited file called tidyData.txt in your working directory.
 
 
 About the Code Book
